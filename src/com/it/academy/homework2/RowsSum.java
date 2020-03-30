@@ -1,4 +1,4 @@
-package com.it.academy;
+package com.it.academy.homework2;
 
 public class RowsSum {
     public static void main(String args[]){
