@@ -2,41 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe64cd20-1a09-4fb3-be3b-865ce5f041cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/it/academy/homework3/ArraySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/it/academy/homework3/CommonElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/it/academy/homework3/DigitsSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/it/academy/homework4/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/it/academy/homework4/MergeArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/it/academy/homework4/ZeroClosest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/it/academy/homework5/books/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/it/academy/homework5/books/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/it/academy/homework5/books/TestAuthor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/it/academy/homework5/books/TestBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/it/academy/homework5/circles/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/it/academy/homework5/circles/TestCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/it/academy/homework6/factory/Accountant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/it/academy/homework6/factory/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/it/academy/homework6/factory/Loader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/it/academy/homework6/factory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/it/academy/homework6/factory/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/it/academy/homework6/factory/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/it/academy/homework6/shapes/Carpet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/it/academy/homework6/shapes/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/it/academy/homework6/shapes/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/it/academy/homework6/shapes/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/it/academy/homework6/shapes/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/it/academy/homework6/shapes/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/it/academy/homework6/zoo/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/it/academy/homework6/zoo/Elephant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/it/academy/homework6/zoo/Lion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/it/academy/homework6/zoo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/it/academy/homework6/zoo/Rhino.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/it/academy/homework6/zoo/Zoo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/it-academy-homework/com/it/academy/AgeDiscounts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/it-academy-homework/com/it/academy/ArrayDuplicates.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/it-academy-homework/com/it/academy/CircleDimensions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/it-academy-homework/com/it/academy/JavaLogo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/it-academy-homework/com/it/academy/NumbersComparison.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/it-academy-homework/com/it/academy/ReversedArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/it-academy-homework/com/it/academy/RowsSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/it-academy-homework/com/it/academy/SecondSmallest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/it-academy-homework/com/it/academy/SumMatrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/it-academy-homework/com/it/academy/WeekDay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/it-academy-homework/com/it/academy/latko.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/it/academy/AgeDiscounts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/it/academy/homework1/AgeDiscounts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/it/academy/ArrayDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/it/academy/homework2/ArrayDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/it/academy/CircleDimensions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/it/academy/homework1/CircleDimensions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/it/academy/JavaLogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/it/academy/homework1/JavaLogo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/it/academy/NumbersComparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/it/academy/homework1/NumbersComparison.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/it/academy/ReversedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/it/academy/homework2/ReversedArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/it/academy/RowsSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/it/academy/homework2/RowsSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/it/academy/SecondSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/it/academy/homework2/SecondSmallest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/it/academy/SumMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/it/academy/homework2/SumMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/it/academy/WeekDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/it/academy/homework1/WeekDay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/it/academy/latko.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +41,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Yd9hLYZXdQiibJhIcCj03u8blG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -65,15 +51,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../it-academy-classes" />
   </component>
-  <component name="RunManager" selected="Application.TestBook">
-    <configuration name="MergeArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.it.academy.homework4.MergeArrays" />
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Carpet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.it.academy.homework6.shapes.Carpet" />
       <module name="it-academy-homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.it.academy.homework1.*" />
+          <option name="PATTERN" value="com.it.academy.homework6.shapes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +67,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAuthor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.it.academy.homework5.books.TestAuthor" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.it.academy.homework6.shapes.Main" />
       <module name="it-academy-homework" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.it.academy.homework5.books.*" />
+          <option name="PATTERN" value="com.it.academy.homework6.shapes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.it.academy.homework6.factory.Main" />
+      <module name="it-academy-homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.it.academy.homework6.factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.it.academy.homework6.zoo.Main" />
+      <module name="it-academy-homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.it.academy.homework6.zoo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,39 +119,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.it.academy.circles.TestCircle" />
-      <module name="it-academy-homework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.it.academy.circles.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.it.academy.test" />
-      <module name="it-academy-homework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.it.academy.homework1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Carpet" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.TestBook" />
-        <item itemvalue="Application.TestAuthor" />
-        <item itemvalue="Application.TestCircle" />
-        <item itemvalue="Application.MergeArrays" />
-        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -165,10 +151,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="520" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1584278631766" />
-    <state x="958" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1585509419013">
+    <state x="958" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1586197448195">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="958" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585509419013" />
+    <state x="958" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1586197448195" />
     <state x="485" y="131" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1583349141957">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -177,26 +163,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585509036657" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1584380044482">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1586191339937">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584380044482" />
-    <state width="1492" height="200" key="GridCell.Tab.0.bottom" timestamp="1585510250734">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586191339937" />
+    <state width="949" height="180" key="GridCell.Tab.0.bottom" timestamp="1586121101841">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="200" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585510250734" />
-    <state width="1492" height="200" key="GridCell.Tab.0.center" timestamp="1585510250734">
+    <state width="949" height="180" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586121101841" />
+    <state width="949" height="180" key="GridCell.Tab.0.center" timestamp="1586121101841">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="200" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585510250734" />
-    <state width="1492" height="200" key="GridCell.Tab.0.left" timestamp="1585510250734">
+    <state width="949" height="180" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586121101841" />
+    <state width="949" height="180" key="GridCell.Tab.0.left" timestamp="1586121101841">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="200" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585510250734" />
-    <state width="1492" height="200" key="GridCell.Tab.0.right" timestamp="1585510250734">
+    <state width="949" height="180" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586121101841" />
+    <state width="949" height="180" key="GridCell.Tab.0.right" timestamp="1586121101841">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1492" height="200" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585510250734" />
+    <state width="949" height="180" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586121101841" />
     <state width="1492" height="252" key="GridCell.Tab.1.bottom" timestamp="1584283962321">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -213,10 +199,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1492" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584283962321" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1584376142711">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1586190631745">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1584376142711" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586190631745" />
     <state x="732" y="0" width="738" height="824" key="find.popup" timestamp="1585592661183">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -225,10 +211,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1583692593818" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584212786608">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586196840296">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584212786608" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586196840296" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
